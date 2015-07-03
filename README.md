@@ -1,3 +1,3 @@
 # kuha
-Simple project for studing spring and angular.
-Initial commit for my branch
+Basic RESTful web service with spring boot application.
+You can run it with mvn spring-boot:run
