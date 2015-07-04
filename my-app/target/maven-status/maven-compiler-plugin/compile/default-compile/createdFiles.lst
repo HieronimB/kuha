@@ -1,2 +1,3 @@
-com\myexample\app\MyAppController.class
 com\myexample\app\App.class
+com\myexample\app\MyAppController.class
+com\myexample\app\model\Greeting.class
